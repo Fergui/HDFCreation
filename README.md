@@ -16,4 +16,8 @@ python processHDF path_desired
 
 # Result
 
-It is going to generate a MODNN/MYDNN file for each pair of MOD03/MYD03 and MOD14/MYD14 in the desired path
+Generate a MODNN/MYDNN file for each pair of MOD03/MYD03 and MOD14/MYD14 in the desired path
+
+# Example
+
+python processHDF.py hdfs
